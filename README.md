@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou [Alisson Lucas M]
 
 Bem-vindo ao meu espaço no GitHub! 🚀  
-Sou apaixonado por **tecnologia, desenvolvimento de software e inovação**. Aqui você vai encontrar projetos, experimentos e estudos nas áreas de **[sua stack principal]**, sempre buscando **evolução contínua**.  
+Sou apaixonado por **tecnologia, desenvolvimento de software e inovação**. Aqui você vai encontrar projetos, experimentos e estudos nas áreas de **[Curso Superior em Sistema da Informação e Curso Superior de Tecnologia em Gestão Financeira]**, sempre buscando **evolução contínua**.  
 
 ---
 
@@ -30,15 +30,6 @@ Sou apaixonado por **tecnologia, desenvolvimento de software e inovação**. Aqu
 ## 📊 GitHub Stats
 ![Alisson GitHub stats](https://github-readme-stats.vercel.app/api?username=AlissonLucasM&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonLucasM&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlissonLucasM<&theme=radical)  
-
----
-
-## 📌 Projetos em destaque
-🔹 [Nome do Projeto 1](https://github.com/SeuUser/Projeto1) – descrição curta do que ele faz  
-🔹 [Nome do Projeto 2](https://github.com/SeuUser/Projeto2) – destaque principal  
-🔹 [Nome do Projeto 3](https://github.com/SeuUser/Projeto3) – outro projeto legal  
-
 ---
 
 ## 🌎 Onde me encontrar
